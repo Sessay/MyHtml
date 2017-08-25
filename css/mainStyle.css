@@ -1,0 +1,16 @@
+body{
+    padding:0px;
+    margin: 0px;
+}
+
+.navbar-brand{
+    width: 300px;
+}
+.carousel {
+    width: 1366px;
+    height:408px;
+    margin-top: -20px;
+}
+
+
+
